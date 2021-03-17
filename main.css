@@ -60,6 +60,7 @@ header .wrapper {
 iframe {
   margin: 35px auto 35px;
   transition: all .5s ease;
+  height: 500px;
 }
 
 .video-list div section {
